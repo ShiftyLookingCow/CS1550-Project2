@@ -2,3 +2,5 @@
 
 This project extends the Linux kernel to include an implementation of semaphores, 
 which is used to by prodcons.c to solve the producer/consumer problem for shared resources in a multi-threaded program
+
+Linux kernel modifications designed for use with QEMU
